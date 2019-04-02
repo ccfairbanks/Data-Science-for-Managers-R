@@ -1,2 +1,1 @@
-# Getting-Started-R
-Source: RiA 2
+This is a repository for William & Mary's Data Science for Managers Assignments.
